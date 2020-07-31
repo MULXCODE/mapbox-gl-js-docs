@@ -3476,10 +3476,10 @@
     unified-lint-rule "^1.0.5"
     unist-util-visit "^2.0.2"
 
-"@mapbox/remark-lint-mapbox@1.0.0-beta.1":
-  version "1.0.0-beta.1"
-  resolved "https://registry.yarnpkg.com/@mapbox/remark-lint-mapbox/-/remark-lint-mapbox-1.0.0-beta.1.tgz#201af71fd6224188dfa527b08974e8b222eadf3a"
-  integrity sha512-eGozANxWIoyRTCNplw6Idfjly9/kkd5G/jdBz0vIk42CD+rbZvAngRKBqR17bOgiMHzaw25ovfjx1cocHeai+Q==
+"@mapbox/remark-lint-mapbox@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@mapbox/remark-lint-mapbox/-/remark-lint-mapbox-1.0.0.tgz#4629b116061679caabfaba769809b095c7ccdf2b"
+  integrity sha512-vSyYeX7PhDnW765j9LyBgnAmpZ6H1hbsDIWQf/Uk9MG8Djp0p+yaNjD1UrAndSc/eYjUiuJAROKNzdeGK/aVzA==
   dependencies:
     "@mapbox/jsxtreme-markdown" "^1.0.0"
     check-links "^1.1.8"
